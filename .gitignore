@@ -1,0 +1,4 @@
+configs/config.json
+node_modules/
+logs/*
+NotaMigracao.txt
