@@ -1,0 +1,23 @@
+{
+    "variables": {
+        "paths":"./module-xml-transportadora/controls",
+        "charset": "utf8mb4",
+        "project": "module-xml-transportadora",
+        "emailDomain": "[dominio do email]",
+        "emailName": "[nome do Email]"
+    },
+    "mailler": {
+        "host": "[mail host]",
+        "user": "[mail user]",
+        "pass": "[mail password]",
+        "port": "[porta]"
+    },
+    "database": {
+        "uni_intra": {
+            "host": "[host]",
+            "username": "[usuario]",
+            "password": "[senha]",
+            "scheme": "[nome do banco]"
+        }
+    }
+}
